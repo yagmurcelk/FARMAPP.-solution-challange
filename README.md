@@ -6,6 +6,7 @@
 ## Usage
 ![Usage Photo](https://github.com/yagmurcelk/FARMAPP.-solution-challange/blob/main/usagephoto.png)
 
-'
+##About
+![Finish Photo](
 
 
